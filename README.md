@@ -33,7 +33,7 @@ tokenizer, model, image_processor, max_length = load_pretrained_model(pretrained
 
 model.eval()
 
-url = "./joker.jpg"
+url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-WZTctTYMj7uif93ApciLofLdNNlDARM9dw&s"
 image = Image.open(requests.get(url, stream=True).raw)
 image_tensor = process_images([image], image_processor, model.config)
 image_tensor = [_image.to(dtype=torch.float16, device=device) for _image in image_tensor]
