@@ -2,7 +2,7 @@
 Long-generated Multimodal Large Language Model
 
 ## Demo
-![Demo Screensholt](https://github.com/baochi0212/Portrayer/blob/master/demo_portrayer.mp4)
+![Demo Screensholt](https://github.com/baochi0212/Portrayer/blob/master/demo_portrayer.giff.gif)
 
 ## Quickstart Code
 Provide a simple, complete code snippet that demonstrates how to quickly get started with your project. This should include the minimal setup or usage example needed to experience the core functionality or a key feature of the project.
