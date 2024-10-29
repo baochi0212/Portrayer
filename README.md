@@ -8,7 +8,6 @@ Prompt: Write a long and well-formated passage to advertise this movie, around 1
 ![Demo Screensholt](https://github.com/baochi0212/Portrayer/blob/master/demo_portrayer.giff.gif)
 
 ## Quickstart Code
-Provide a simple, complete code snippet that demonstrates how to quickly get started with your project. This should include the minimal setup or usage example needed to experience the core functionality or a key feature of the project.
 ```
 # pip install git+https://github.com/LLaVA-VL/LLaVA-NeXT.git
 from llava.model.builder import load_pretrained_model
@@ -73,6 +72,6 @@ If you find our project useful for your research and applications, please cite u
 }
 ```
 ## Acknowledgement 
-[LLaVA-Next](https://github.com/LLaVA-VL/LLaVA-NeXT)
-[Longwriter](https://github.com/THUDM/LongWriter) 
+- [LLaVA-Next](https://github.com/LLaVA-VL/LLaVA-NeXT) for base model
+- [Longwriter](https://github.com/THUDM/LongWriter)  
 
