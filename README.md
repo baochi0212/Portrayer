@@ -5,7 +5,7 @@ Long-generation Multimodal Large Language Model (MLLM)
 ```
 Prompt: Write a long and well-formated passage to advertise this movie, around 1000 words.
 ```
-![Demo Screensholt](https://github.com/baochi0212/Portrayer/blob/master/demo_portrayer.giff.gif)
+![Demo Screensholt](https://github.com/baochi0212/Portrayer/blob/master/demo_portrayer)
 
 ## Quickstart Code
 ```
