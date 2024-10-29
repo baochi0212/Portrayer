@@ -68,6 +68,8 @@ If you find our project useful for your research and applications, please cite u
       publisher={github repo},
       year={2024}
 }
+```
 ## Acknowledgement 
+[LLaVA-Next](https://github.com/LLaVA-VL/LLaVA-NeXT)
 [Longwriter](https://github.com/THUDM/LongWriter) 
 
