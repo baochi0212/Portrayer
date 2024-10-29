@@ -1,5 +1,5 @@
 # Portrayer
-Long-generation Multimodal Large Language Model
+Long-generation Multimodal Large Language Model (MLLM)
 
 ## Demo
 ```
@@ -73,5 +73,5 @@ If you find our project useful for your research and applications, please cite u
 ```
 ## Acknowledgement 
 - [LLaVA-Next](https://github.com/LLaVA-VL/LLaVA-NeXT) for base model
-- [Longwriter](https://github.com/THUDM/LongWriter)  
+- [Longwriter](https://github.com/THUDM/LongWriter) for work in long-generation LLM
 
