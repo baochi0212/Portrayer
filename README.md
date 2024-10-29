@@ -1,5 +1,5 @@
 # Portrayer
-Long-generated Multimodal Large Language Model
+Long-generation Multimodal Large Language Model
 
 ## Demo
 ![Demo Screensholt](https://github.com/baochi0212/Portrayer/blob/master/demo_portrayer.giff.gif)
@@ -63,7 +63,7 @@ print(text_outputs)
 If you find our project useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 @article{portrayer,
-      title={}, 
+      title={Portrayer: Long-generation Multimodal Large Language Model}, 
       author={Chi Tran},
       publisher={github repo},
       year={2024}
