@@ -64,7 +64,7 @@ print(text_outputs)
 
 If you find our project useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@article{portrayer,
+@article{portrayer2024,
       title={Portrayer: Long-generation Multimodal Large Language Model}, 
       author={Chi Tran},
       publisher={github repo},
